@@ -74,3 +74,316 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1570594193520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aG68RiYhTnkC"
+1570594193915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570594193915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570594193915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570594193915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570594196144	Marionette	INFO	Listening on port 36945
+1570594196229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570594210950	Marionette	INFO	Stopped listening on port 36945
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1570594381243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZqkfjScXI7kU"
+1570594381639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570594381639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570594381640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570594381640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570594383423	Marionette	INFO	Listening on port 44389
+1570594383504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570594398450	Marionette	INFO	Stopped listening on port 44389
+1570594570906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fp62YGRlNgeH"
+1570594571258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570594571258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570594571258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570594571258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570594572869	Marionette	INFO	Listening on port 36025
+1570594572950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570594623096	Marionette	INFO	Stopped listening on port 36025
+1570594855071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F8Rwc9SN1whG"
+1570594855431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570594855431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570594855431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570594855431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570594856984	Marionette	INFO	Listening on port 44835
+1570594857004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570594879521	Marionette	INFO	Stopped listening on port 44835
+1570594950145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w5X6liS8GCDF"
+1570594950463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570594950463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570594950463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570594950463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570594952018	Marionette	INFO	Listening on port 45503
+1570594952107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+[Child 3549, Chrome_ChildThread] WARNING: pipe error (32): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 3549, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+Exiting due to channel error.
+1570595314388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jiVLFT6Ih175"
+1570595314863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570595314863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570595314863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570595314863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570595316984	Marionette	INFO	Listening on port 42401
+1570595317009	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[Child 3937, Chrome_ChildThread] WARNING: pipe error (36): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 3937, Chrome_ChildThread] WARNING: pipe error (55): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 3937, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 3937, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1570596187479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zZqiM38tkpxt"
+1570596187827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570596187827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570596187827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570596187828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570596189405	Marionette	INFO	Listening on port 42645
+1570596189486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7294664740924242&output=html&h=250&slotname=6104773750&adk=1412264175&adf=4025019742&w=300&lmt=1570596229&guci=2.2.0.0.2.2.0.0&format=medium-rectangle&url=https%3A%2F%2Fwww.indieonthemove.com%2Fcolleges%3Fpage%3D1&flash=0&avail_w=307&wgl=1&adsid=NT&dt=1570596229667&bpp=13&bdt=454&fdt=102&idt=103&shv=r20191003&cbv=r20190131&saldr=aa&abxe=1&correlator=5743579636991&frm=20&pv=2&ga_vid=108453337.1570596192&ga_sid=1570596230&ga_hid=219864292&ga_fc=0&icsg=141567&dssz=14&mdo=0&mso=0&u_tz=-300&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1049&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=804&ady=201&biw=1268&bih=870&scr_x=0&scr_y=0&eid=21064715%2C26835105&oid=3&pvsid=1997425218078093&pem=65&rx=0&eae=0&fc=912&brdim=0%2C31%2C0%2C31%2C1920%2C31%2C1280%2C944%2C1280%2C870&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=YKnSu1smTg&p=https%3A//www.indieonthemove.com&dtd=119, line 49: ReferenceError: buildAdSlot is not defined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191003/r20110914/client/m_intentful_click_reactor_fy2019.js, line 1: TypeError: _.z is not a function
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7294664740924242&output=html&h=250&slotname=6104773750&adk=1412264175&adf=4025019742&w=300&lmt=1570596229&guci=2.2.0.0.2.2.0.0&format=medium-rectangle&url=https%3A%2F%2Fwww.indieonthemove.com%2Fcolleges%3Fpage%3D1&flash=0&avail_w=307&wgl=1&adsid=NT&dt=1570596229667&bpp=13&bdt=454&fdt=102&idt=103&shv=r20191003&cbv=r20190131&saldr=aa&abxe=1&correlator=5743579636991&frm=20&pv=2&ga_vid=108453337.1570596192&ga_sid=1570596230&ga_hid=219864292&ga_fc=0&icsg=141567&dssz=14&mdo=0&mso=0&u_tz=-300&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1049&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=804&ady=201&biw=1268&bih=870&scr_x=0&scr_y=0&eid=21064715%2C26835105&oid=3&pvsid=1997425218078093&pem=65&rx=0&eae=0&fc=912&brdim=0%2C31%2C0%2C31%2C1920%2C31%2C1280%2C944%2C1280%2C870&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=YKnSu1smTg&p=https%3A//www.indieonthemove.com&dtd=119, line 49: ReferenceError: init_icr is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7294664740924242&output=html&h=250&slotname=6104773750&adk=1412264175&adf=4025019742&w=300&lmt=1570596229&guci=2.2.0.0.2.2.0.0&format=medium-rectangle&url=https%3A%2F%2Fwww.indieonthemove.com%2Fcolleges%3Fpage%3D1&flash=0&avail_w=307&wgl=1&adsid=NT&dt=1570596229667&bpp=13&bdt=454&fdt=102&idt=103&shv=r20191003&cbv=r20190131&saldr=aa&abxe=1&correlator=5743579636991&frm=20&pv=2&ga_vid=108453337.1570596192&ga_sid=1570596230&ga_hid=219864292&ga_fc=0&icsg=141567&dssz=14&mdo=0&mso=0&u_tz=-300&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1049&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=804&ady=201&biw=1268&bih=870&scr_x=0&scr_y=0&eid=21064715%2C26835105&oid=3&pvsid=1997425218078093&pem=65&rx=0&eae=0&fc=912&brdim=0%2C31%2C0%2C31%2C1920%2C31%2C1280%2C944%2C1280%2C870&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=YKnSu1smTg&p=https%3A//www.indieonthemove.com&dtd=119, line 49: ReferenceError: buildRichmediaAd is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7294664740924242&output=html&h=250&slotname=6104773750&adk=1412264175&adf=4025019742&w=300&lmt=1570596229&guci=2.2.0.0.2.2.0.0&format=medium-rectangle&url=https%3A%2F%2Fwww.indieonthemove.com%2Fcolleges%3Fpage%3D1&flash=0&avail_w=307&wgl=1&adsid=NT&dt=1570596229667&bpp=13&bdt=454&fdt=102&idt=103&shv=r20191003&cbv=r20190131&saldr=aa&abxe=1&correlator=5743579636991&frm=20&pv=2&ga_vid=108453337.1570596192&ga_sid=1570596230&ga_hid=219864292&ga_fc=0&icsg=141567&dssz=14&mdo=0&mso=0&u_tz=-300&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1049&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=804&ady=201&biw=1268&bih=870&scr_x=0&scr_y=0&eid=21064715%2C26835105&oid=3&pvsid=1997425218078093&pem=65&rx=0&eae=0&fc=912&brdim=0%2C31%2C0%2C31%2C1920%2C31%2C1280%2C944%2C1280%2C870&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=YKnSu1smTg&p=https%3A//www.indieonthemove.com&dtd=119, line 49: ReferenceError: googqscp is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7294664740924242&output=html&h=250&slotname=6104773750&adk=1412264175&adf=4025019742&w=300&lmt=1570596229&guci=2.2.0.0.2.2.0.0&format=medium-rectangle&url=https%3A%2F%2Fwww.indieonthemove.com%2Fcolleges%3Fpage%3D1&flash=0&avail_w=307&wgl=1&adsid=NT&dt=1570596229667&bpp=13&bdt=454&fdt=102&idt=103&shv=r20191003&cbv=r20190131&saldr=aa&abxe=1&correlator=5743579636991&frm=20&pv=2&ga_vid=108453337.1570596192&ga_sid=1570596230&ga_hid=219864292&ga_fc=0&icsg=141567&dssz=14&mdo=0&mso=0&u_tz=-300&u_his=4&u_java=0&u_h=1080&u_w=1920&u_ah=1049&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=804&ady=201&biw=1268&bih=870&scr_x=0&scr_y=0&eid=21064715%2C26835105&oid=3&pvsid=1997425218078093&pem=65&rx=0&eae=0&fc=912&brdim=0%2C31%2C0%2C31%2C1920%2C31%2C1280%2C944%2C1280%2C870&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=YKnSu1smTg&p=https%3A//www.indieonthemove.com&dtd=119, line 49: ReferenceError: buildAttribution is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4503, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570596314201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IHRXrQ1vXRnz"
+1570596314577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570596314577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570596314577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570596314577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570596316195	Marionette	INFO	Listening on port 34869
+1570596316216	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1570596445496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NccOrDlojokw"
+1570596445925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570596445925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570596445926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570596445926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570596448039	Marionette	INFO	Listening on port 35291
+1570596448115	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570596599888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.U4B1Xyf3xFz0"
+1570596600268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570596600269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570596600269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570596600269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570596602235	Marionette	INFO	Listening on port 46373
+1570596602297	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570597031258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GYGdZmeWhKf7"
+1570597031618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570597031618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570597031619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570597031619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570597033435	Marionette	INFO	Listening on port 42573
+1570597033475	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570597206016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BbPPf7bCSOfc"
+1570597206400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570597206400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570597206400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570597206400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570597208166	Marionette	INFO	Listening on port 34469
+1570597208232	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570597359959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3JCwmtmKaEoy"
+1570597360284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570597360284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570597360284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570597360284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570597361772	Marionette	INFO	Listening on port 33451
+1570597361899	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570597598389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.o9yG0wVFldEA"
+1570597598784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570597598784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570597598784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570597598784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570597600406	Marionette	INFO	Listening on port 43107
+1570597600502	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570597803487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HpVXfXhXzKm5"
+1570597803824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570597803824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570597803824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570597803824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570597805617	Marionette	INFO	Listening on port 42049
+1570597805696	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 6855, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 6855, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570598100561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z1HUYoZjiZTg"
+1570598100885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570598100886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570598100886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570598100886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570598102507	Marionette	INFO	Listening on port 42111
+1570598102571	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570598510863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oSpjdgpXeNsO"
+1570598511203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570598511203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570598511203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570598511203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570598512783	Marionette	INFO	Listening on port 43457
+1570598512874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570598518120	Marionette	INFO	Stopped listening on port 43457
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 7563, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7563, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570610660301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AUiEfdAKCfV3"
+1570610660635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570610660635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570610660636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570610660636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570610662222	Marionette	INFO	Listening on port 45583
+1570610662307	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570611352399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kktLSGVdVZJC"
+1570611352773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570611352773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570611352773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570611352773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570611354626	Marionette	INFO	Listening on port 46131
+1570611354711	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 8512, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570614691722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zQgDzsqmWrt3"
+1570614692106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570614692106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570614692106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570614692107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570614695168	Marionette	INFO	Listening on port 35445
+1570614695250	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570659339226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1GyGkh3k3XoA"
+1570659339676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570659339677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570659339677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570659339677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570659342131	Marionette	INFO	Listening on port 35231
+1570659342152	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2049, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570659575643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xDlDQBdWD2lT"
+1570659576056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570659576056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570659576063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570659576063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570659578467	Marionette	INFO	Listening on port 41015
+1570659578560	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2277, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2258, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1570659828027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PtQuaaiXtRdr"
+1570659828426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570659828426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570659828426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570659828426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570659830606	Marionette	INFO	Listening on port 39191
+1570659830644	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2596, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1570663317228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YXjSv3nxVaPE"
+1570663317703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570663317703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570663317703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570663317703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570663319749	Marionette	INFO	Listening on port 34961
+1570663319839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7294664740924242&output=html&h=250&slotname=6104773750&adk=1412264175&adf=4025019742&w=300&lmt=1570663591&guci=2.2.0.0.2.2.0.0&format=medium-rectangle&url=https%3A%2F%2Fwww.indieonthemove.com%2Fcolleges%2Fst-norbert-college-de-pere-wisconsin&flash=0&avail_w=307&wgl=1&adsid=NT&dt=1570663591347&bpp=13&bdt=550&fdt=147&idt=148&shv=r20191007&cbv=r20190131&saldr=aa&abxe=1&correlator=5142332083964&frm=20&pv=2&ga_vid=1366252323.1570663322&ga_sid=1570663592&ga_hid=1940560033&ga_fc=0&icsg=549758084092&dssz=28&mdo=0&mso=0&u_tz=-300&u_his=5&u_java=0&u_h=1080&u_w=1920&u_ah=1049&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=804&ady=201&biw=1268&bih=870&scr_x=0&scr_y=0&eid=20199335%2C332260030%2C332260040&oid=3&pvsid=1557936735011489&pem=618&rx=0&eae=0&fc=896&brdim=0%2C31%2C0%2C31%2C1920%2C31%2C1280%2C944%2C1280%2C870&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=oI85Bxjn8h&p=https%3A//www.indieonthemove.com&dtd=166, line 1: ReferenceError: buildAdSlot is not defined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191007/r20110914/client/m_intentful_click_reactor_fy2019.js, line 1: TypeError: _.z is not a function
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7294664740924242&output=html&h=250&slotname=6104773750&adk=1412264175&adf=4025019742&w=300&lmt=1570663591&guci=2.2.0.0.2.2.0.0&format=medium-rectangle&url=https%3A%2F%2Fwww.indieonthemove.com%2Fcolleges%2Fst-norbert-college-de-pere-wisconsin&flash=0&avail_w=307&wgl=1&adsid=NT&dt=1570663591347&bpp=13&bdt=550&fdt=147&idt=148&shv=r20191007&cbv=r20190131&saldr=aa&abxe=1&correlator=5142332083964&frm=20&pv=2&ga_vid=1366252323.1570663322&ga_sid=1570663592&ga_hid=1940560033&ga_fc=0&icsg=549758084092&dssz=28&mdo=0&mso=0&u_tz=-300&u_his=5&u_java=0&u_h=1080&u_w=1920&u_ah=1049&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=804&ady=201&biw=1268&bih=870&scr_x=0&scr_y=0&eid=20199335%2C332260030%2C332260040&oid=3&pvsid=1557936735011489&pem=618&rx=0&eae=0&fc=896&brdim=0%2C31%2C0%2C31%2C1920%2C31%2C1280%2C944%2C1280%2C870&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=oI85Bxjn8h&p=https%3A//www.indieonthemove.com&dtd=166, line 1: ReferenceError: init_icr is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7294664740924242&output=html&h=250&slotname=6104773750&adk=1412264175&adf=4025019742&w=300&lmt=1570663591&guci=2.2.0.0.2.2.0.0&format=medium-rectangle&url=https%3A%2F%2Fwww.indieonthemove.com%2Fcolleges%2Fst-norbert-college-de-pere-wisconsin&flash=0&avail_w=307&wgl=1&adsid=NT&dt=1570663591347&bpp=13&bdt=550&fdt=147&idt=148&shv=r20191007&cbv=r20190131&saldr=aa&abxe=1&correlator=5142332083964&frm=20&pv=2&ga_vid=1366252323.1570663322&ga_sid=1570663592&ga_hid=1940560033&ga_fc=0&icsg=549758084092&dssz=28&mdo=0&mso=0&u_tz=-300&u_his=5&u_java=0&u_h=1080&u_w=1920&u_ah=1049&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=804&ady=201&biw=1268&bih=870&scr_x=0&scr_y=0&eid=20199335%2C332260030%2C332260040&oid=3&pvsid=1557936735011489&pem=618&rx=0&eae=0&fc=896&brdim=0%2C31%2C0%2C31%2C1920%2C31%2C1280%2C944%2C1280%2C870&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=oI85Bxjn8h&p=https%3A//www.indieonthemove.com&dtd=166, line 1: ReferenceError: buildImageAd is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7294664740924242&output=html&h=250&slotname=6104773750&adk=1412264175&adf=4025019742&w=300&lmt=1570663591&guci=2.2.0.0.2.2.0.0&format=medium-rectangle&url=https%3A%2F%2Fwww.indieonthemove.com%2Fcolleges%2Fst-norbert-college-de-pere-wisconsin&flash=0&avail_w=307&wgl=1&adsid=NT&dt=1570663591347&bpp=13&bdt=550&fdt=147&idt=148&shv=r20191007&cbv=r20190131&saldr=aa&abxe=1&correlator=5142332083964&frm=20&pv=2&ga_vid=1366252323.1570663322&ga_sid=1570663592&ga_hid=1940560033&ga_fc=0&icsg=549758084092&dssz=28&mdo=0&mso=0&u_tz=-300&u_his=5&u_java=0&u_h=1080&u_w=1920&u_ah=1049&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=804&ady=201&biw=1268&bih=870&scr_x=0&scr_y=0&eid=20199335%2C332260030%2C332260040&oid=3&pvsid=1557936735011489&pem=618&rx=0&eae=0&fc=896&brdim=0%2C31%2C0%2C31%2C1920%2C31%2C1280%2C944%2C1280%2C870&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=oI85Bxjn8h&p=https%3A//www.indieonthemove.com&dtd=166, line 1: ReferenceError: registerAd is not defined
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3593, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3524, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1570663815273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dkrGbAHihJyL"
+1570663815621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570663815622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570663815622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570663815622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570663817313	Marionette	INFO	Listening on port 43873
+1570663817403	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1570663874913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EPKY4TmqsTWf"
+1570663875252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570663875252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570663875253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570663875253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570663877200	Marionette	INFO	Listening on port 34773
+1570663877229	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4377, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4309, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
